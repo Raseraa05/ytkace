@@ -1,11 +1,11 @@
 {
-  "name": "My Custom GitHub Source",
-  "identifier": "com.yourname.customsource",
+  "name": "ytkace",
+  "identifier": "com.Raseraa05.ytkace",
   "apps": [
     {
-      "name": "App Name",
-      "bundleIdentifier": "com.developer.appbundle",
-      "developerName": "Developer Name",
+      "name": "ytkace",
+      "bundleIdentifier": "com.Raseraa05.ytkace",
+      "developerName": "Raseraa05",
       "version": "1.0.0",
       "versionDate": "2026-10-11",
       "downloadURL": "https://github.com",
